@@ -85,6 +85,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+Este repositório foi criado em acompanhamento da aula sobre: 
+Criando um front-end totalmente componentizado na prática com ReactJS - ministrada pelo Matheus Benites através da plataforma Digital Innovation One, aula obrigatória para conclusão do módulo IV sobre ReactJS;
+
+Este projeto será editado futuramente e receberá alterações autorais.
+
+
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
